@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reygel Padios</h1>
+<h1 align="center">Hi, I'm Reygel Padios!</h1>
 <h3 align="center">BS Information Technology Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
